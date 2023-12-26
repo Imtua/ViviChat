@@ -1,1 +1,1 @@
-# The project was implemented using ASP.Net Core MVC technology.
+# ViviChat is an educational project that is a social network.
