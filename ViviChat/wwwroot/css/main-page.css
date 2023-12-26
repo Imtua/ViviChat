@@ -1,0 +1,29 @@
+﻿.row{
+    -ms-flex: 30%;
+    flex: 30%;
+    padding: 20px;
+}
+
+.side{
+    -ms-flex:70%;
+    flex: 70%;
+    padding: 20px;
+}
+
+.main{
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+
+.footer{
+    padding: 20px;
+    text-align: center;
+}
+
+.topnav{
+    padding: 20px;
+    text-align: center;
+    width: 100%;
+}
